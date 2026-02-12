@@ -37,7 +37,7 @@ This template has been rigorously tested to ensure absolute perfection in Core W
 
 ### GTMetrix & W3C
 - **Performance and Structure:** 100%
-- [View GTMetrix Report](https://gtmetrix.com/reports/informigados.com.br/D4KqgwRq/)
+- [View GTMetrix Report](https://gtmetrix.com/reports/informigados.com.br/SVKt0I6D/)
 - **W3C HTML Validation:** Passed
 - **W3C CSS Validation:** Passed
 
