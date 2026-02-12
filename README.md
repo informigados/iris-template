@@ -10,8 +10,6 @@ A lightweight, high-performance HTML landing page template engineered for **100/
 
 **Live Demo:** [https://informigados.com.br/templates/html/iris-template/](https://informigados.com.br/templates/html/iris-template/)
 
----
-
 ## 🚀 Features
 
 - **100/100 Google PageSpeed Insights** (Mobile & Desktop)
@@ -43,8 +41,6 @@ This template has been rigorously tested to ensure absolute perfection in Core W
 - **W3C HTML Validation:** Passed
 - **W3C CSS Validation:** Passed
 
----
-
 ## 🛠️ Tech Stack
 
 - **HTML5:** Semantic structure with proper heading hierarchy.
@@ -70,8 +66,6 @@ This template has been rigorously tested to ensure absolute perfection in Core W
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
 <p align="left">
-  Created with ❤️ by <a href="https://html.informigados.com.br/" target="_blank">INformigados</a>
+  Created with 🩷 by <a href="https://html.informigados.com.br/" target="_blank">INformigados</a>
 </p>
