@@ -34,11 +34,11 @@ This template has been rigorously tested to ensure absolute perfection in Core W
 
 ### Pingdom Tools
 - **Performance Grade:** A
-- [View Pingdom Report](https://tools.pingdom.com/#67143c1d84c00000)
+- [View Pingdom Report](https://tools.pingdom.com/#6882d6ade7400000)
 
 ### GTMetrix & W3C
 - **Performance and Structure:** 100%
-- [View GTMetrix Report](https://gtmetrix.com/reports/informigados.com.br/SVKt0I6D/)
+- [View GTMetrix Report](https://gtmetrix.com/reports/informigados.github.io/t1Eagw3o/)
 - **W3C HTML Validation:** Passed
 - **W3C CSS Validation:** Passed
 
