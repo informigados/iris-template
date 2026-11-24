@@ -9,7 +9,7 @@
 
 A lightweight, high-performance HTML landing page template engineered for **100/100 PageSpeed scores** across all metrics. Zero dependencies, semantic HTML5, and inline critical CSS.
 
-**Live Demo:** [https://informigados.com.br/templates/html/iris-template/](https://informigados.com.br/templates/html/iris-template/)
+**Live Demo:** [https://informigados.github.io/iris-template/](https://informigados.github.io/iris-template/)
 
 ## 🚀 Features
 
