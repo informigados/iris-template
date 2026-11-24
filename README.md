@@ -29,8 +29,8 @@ This template has been rigorously tested to ensure absolute perfection in Core W
 ### Google PageSpeed Insights
 - **Mobile Score:** 100/100
 - **Desktop Score:** 100/100
-- [View Mobile Report](https://pagespeed.web.dev/analysis/https-informigados-com-br-templates-html-iris-template/fqt4tltrav?form_factor=mobile)
-- [View Desktop Report](https://pagespeed.web.dev/analysis/https-informigados-com-br-templates-html-iris-template/fqt4tltrav?form_factor=desktop)
+- [View Mobile Report](https://pagespeed.web.dev/analysis/https-informigados-github-io-iris-template/mdqy09bmttfr0725wppejp?form_factor=mobile)
+- [View Desktop Report](https://pagespeed.web.dev/analysis/https-informigados-github-io-iris-template/mdqy09bmttfr0725wppejp?form_factor=desktop)
 
 ### Pingdom Tools
 - **Performance Grade:** A
